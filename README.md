@@ -16,6 +16,7 @@ http://monsite/myAdmin/index.php?A&OrderTotal\CustomerDiscount
 
 Activate the module in Order Total
 
+See Marketplace for all informations
 link to marketplace : https://www.clicshopping.org/forum/files/file/14-apps-customer-discount/
 
 ![DiscountCustomer](https://github.com/ClicShoppingOfficialModulesV3/apps_order_total_customer_discount/blob/master/ModuleInfosJson/customer_discount.png)
