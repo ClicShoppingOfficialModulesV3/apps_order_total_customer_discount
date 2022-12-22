@@ -1,0 +1,30 @@
+{
+	"title":	"Customer Discount App",
+	"app":		"CustomerDiscount",
+	"vendor":	"OrderTotal",
+	"version":	"1.0",
+	"req_core_version":	"3.0",
+	"license":	"GPL-2 - MIT",
+	"authors": [
+		{
+			"name":		"ClicShopping",
+      "company":	"ClicShopping",
+			"email":	   "admin@clicshopping.org",
+			"website":	"https://www.clicshopping.org"
+		}
+	],
+	"modules": {
+   "Hooks": {
+    "ClicShoppingAdmin/Customers": {
+     "pageTab4":	"Module\\Hooks\\ClicShoppingAdmin\\Customers\\pageTab4",
+     "Update":	"Module\\Hooks\\ClicShoppingAdmin\\Customers\\Update"
+    }
+   },
+		"OrderTotal": {
+			"CD":	"Module\\Total\\CD"
+		}
+	},
+	"routes": {
+		"ClicShoppingAdmin":	"Sites\\ClicShoppingAdmin\\Pages\\Home"
+  }
+}
