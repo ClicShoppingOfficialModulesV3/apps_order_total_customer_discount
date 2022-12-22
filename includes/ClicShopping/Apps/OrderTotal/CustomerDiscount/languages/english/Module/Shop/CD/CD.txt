@@ -1,0 +1,4 @@
+module_cd_title = with customer discount
+module_cd_public_title = with customer discount
+module_cd_short_title = with customer discount
+

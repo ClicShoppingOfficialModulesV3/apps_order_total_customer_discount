@@ -1,0 +1,4 @@
+module_cd_title = dont Remise client
+module_cd_public_title = dont Remise client
+module_cd_short_title = dont Remise client
+

@@ -1,0 +1,5 @@
+cfg_order_total_customer_discount_include_shipping_title = Do you want include the shipping inside the discount calcul ?
+cfg_order_total_customer_discount_include_shipping_description = Include the shipping inside the discount calcul
+
+cfg_order_total_customer_discount_include_shipping_true = True
+cfg_order_total_customer_discount_include_shipping_false = False

@@ -1,0 +1,3 @@
+module_cd_title = Remise client
+module_cd_short_title = Remise client
+module_cd_public_title = Remise client

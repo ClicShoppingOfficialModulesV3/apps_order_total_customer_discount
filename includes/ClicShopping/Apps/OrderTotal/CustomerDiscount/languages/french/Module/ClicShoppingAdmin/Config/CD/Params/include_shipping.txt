@@ -1,0 +1,5 @@
+cfg_order_total_customer_discount_include_shipping_title = Souhaitez vous inclure les frais d'expédition dans le calcul de la réduction ?
+cfg_order_total_customer_discount_include_shipping_description = inclure les frais d'expédition dans le calcul de la réduction
+
+cfg_order_total_customer_discount_include_shipping_true = True
+cfg_order_total_customer_discount_include_shipping_false = False

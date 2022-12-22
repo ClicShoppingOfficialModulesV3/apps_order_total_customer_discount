@@ -1,0 +1,2 @@
+text_customer_discount = Customer Discount Rate
+title_customer_discount = Customer Discount

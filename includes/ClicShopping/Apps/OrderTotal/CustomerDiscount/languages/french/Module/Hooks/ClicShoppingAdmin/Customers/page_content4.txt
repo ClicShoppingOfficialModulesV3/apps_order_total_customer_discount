@@ -1,0 +1,2 @@
+text_customer_discount = Taux de remise client
+title_customer_discount = Remise Client

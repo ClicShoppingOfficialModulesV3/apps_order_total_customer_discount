@@ -1,0 +1,3 @@
+module_cd_title = Customer Discount
+module_cd_short_title = Customer Discount
+module_cd_public_title = Customer Discount

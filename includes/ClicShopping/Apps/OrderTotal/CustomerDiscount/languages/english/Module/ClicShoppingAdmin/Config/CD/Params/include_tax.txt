@@ -1,0 +1,5 @@
+cfg_order_total_customer_discount_include_tax_title = Do you want include the tax inside the discount calcul ?
+cfg_order_total_customer_discount_include_tax_description = Include the tax inside the discount calcul
+
+cfg_order_total_customer_discount_include_tax_true = True
+cfg_order_total_customer_discount_include_tax_false = False

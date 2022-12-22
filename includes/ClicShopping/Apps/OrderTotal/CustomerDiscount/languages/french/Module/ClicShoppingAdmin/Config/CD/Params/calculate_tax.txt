@@ -1,0 +1,5 @@
+cfg_order_total_customer_discount_calculate_tax_title = Voulez-vous re-calculer la taxe sur la réduction ?
+cfg_order_total_customer_discount_calculate_tax_description = Re-calculer la taxe sur la réduction
+
+cfg_order_total_customer_discount_calculate_tax_true = True
+cfg_order_total_customer_discount_calculate_tax_false = False
